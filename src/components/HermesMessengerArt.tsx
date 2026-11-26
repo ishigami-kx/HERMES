@@ -19,7 +19,7 @@ export const HermesMessengerArt: React.FC<HermesMessengerArtProps> = ({
       {/* Hermes Bust Image filling the full circular frame smoothly */}
       <div className="relative w-[88%] h-[88%] rounded-full overflow-hidden shadow-2xl shadow-[#F36B35]/30 border border-[#FFB347]/30">
         <img
-          src="/hermes-bust.png"
+          src="./hermes-bust.png"
           alt="Hermes Classical Messenger"
           className="w-full h-full object-cover object-center scale-115 filter drop-shadow-[0_8px_20px_rgba(243,107,53,0.35)]"
           loading="eager"

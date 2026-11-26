@@ -21,7 +21,7 @@ export const HermesLogo: React.FC<HermesLogoProps> = ({ className = "w-10 h-10",
       {/* Image filling full circular frame */}
       <div className="relative w-full h-full rounded-full overflow-hidden">
         <img
-          src="/hermes-bust.png"
+          src="./hermes-bust.png"
           alt="Hermes Emblem"
           className="w-full h-full object-cover object-center scale-120"
         />
